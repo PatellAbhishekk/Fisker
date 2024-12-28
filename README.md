@@ -35,4 +35,12 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-public folder not created
+## installation
+
+````bash
+1- npm i bun
+2- ``` Linux & macOS ```  [ curl -fsSL https://bun.sh/install | bash ]
+   ```Windows```[ powershell -c "irm bun.sh/install.ps1 | iex" ]
+3- bunx create next-app@latest .  (current folder )
+4- bun run dev
+````
