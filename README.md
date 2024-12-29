@@ -44,3 +44,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 3- bunx create next-app@latest .  (current folder )
 4- bun run dev
 ````
+
+<a
+            href="https://youtu.be/6xWXRk3yaSw"
+            target="_blank"
+          >
+&middot; Learn More on youtube
+</a>
