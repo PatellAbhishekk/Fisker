@@ -8,6 +8,7 @@ function Header() {
         <p>All electric &#x2022; Dynamic &#x2022; Driver Range</p>
       </section>
       <section className="mx-auto flex max-w-7xl justify-between">
+        {/* logo */}
         <Image
           src="fisker.svg"
           alt="Fisker Logo"
