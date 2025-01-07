@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { exteriorSwatch, interiorSwatch, wheelSwatch } from "@/lib/swatch";
+import { exteriorSwatch, interiorSwatch, wheelSwatch } from "../lib/Swatch";
 
 function Configurator() {
   return (
